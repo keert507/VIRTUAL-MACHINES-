@@ -1,6 +1,6 @@
 ## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-## Name : ADITHYA.V
-## Reg No : 212223060010
+## Name : keerthana T
+## Reg No : 212224100031
 ## Aim:
 To move the files between virtual machine.
 
